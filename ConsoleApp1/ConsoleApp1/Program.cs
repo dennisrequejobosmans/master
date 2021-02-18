@@ -11,6 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Nuevo proyecto ");
+
+            Console.WriteLine("Bienvenidos a la prueba");
         }
     }
 }
